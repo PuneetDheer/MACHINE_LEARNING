@@ -8,6 +8,7 @@
 +  *Linear Discriminant* <br />
 +  *Quadratic Discriminant* <br />
 +  *Multiclass Logistic Regression* <br />
++  *K-Nearest Neighbours* <br />
 
 **3. Clustering** <br />
 +  *K-Means* <br />
